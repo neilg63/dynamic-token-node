@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-token",
+  "version": "1.0.0",
+  "description": "Encodes and decodes a dynanamic authentication token based on a shared API key, timestamp and random characters with an optional uuid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilg63/dynamic-token-node.git"
+  },
+  "keywords": [
+    "authentication",
+    "security",
+    "speed"
+  ],
+  "author": "Neil Gardner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilg63/dynamic-token-node/issues"
+  },
+  "homepage": "https://github.com/neilg63/dynamic-token-node#readme"
+}
